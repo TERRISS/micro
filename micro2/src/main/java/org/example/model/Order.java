@@ -3,7 +3,6 @@ package org.example.model;
 
 import javax.persistence.*;
 import java.util.List;
-
 @Entity
 public class Order {
     @Id
@@ -48,3 +47,4 @@ public class Order {
     }
     // Геттеры и сеттеры
 }
+
